@@ -1,0 +1,6 @@
+{
+  "name": "Rocket Arena 3D — Car Football",
+  "description": "High-octane 3D car football game with aerial flips, rocket boost, physical ball mechanics, multiple stadiums, garage customization, offline AI matches, and multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
